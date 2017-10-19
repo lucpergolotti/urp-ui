@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <legend>Students</legend>
+    <legend>View Students</legend>
         <div class="row">
             <table class="table table-bordered">
                 <thead>
