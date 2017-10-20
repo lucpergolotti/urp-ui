@@ -24,13 +24,15 @@
                         <a class="navbar-brand" href="#">Temple URP</a>
                     </div>
                     <ul class="nav navbar-nav">
-                        <li><a href="#">Dashboard</a></li>
-                        <li><a href="#">Page 1</a></li>
+                        <li><a href="index.aspx">Dashboard</a></li>
+                        <li><a href="newapplication.aspx">New Application</a></li>
                         <li><a href="#">Page 2</a></li>
                         <li><a href="#">Page 3</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <span class="glyphicon glyphicon-log-in"><a href="index.aspx">Login</a></span>
+                        <li>
+                            <a href="login.aspx"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+                        </li>
                     </ul>
                 </div>
             </div>

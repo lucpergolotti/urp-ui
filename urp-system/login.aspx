@@ -27,9 +27,7 @@
                     <asp:Button id="btnLogin" Text="Login" CssClass="btn btn-primary" runat="server"></asp:Button>
                 </div>
             </div>
-            <div class="alert-danger" id="error" runat="server">
-                You must enter a username and password.
-            </div>
+
         </div>
     </div>
 </asp:Content>
