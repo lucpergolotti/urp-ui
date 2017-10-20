@@ -26,8 +26,8 @@
                     <ul class="nav navbar-nav">
                         <li><a href="index.aspx">Dashboard</a></li>
                         <li><a href="newapplication.aspx">New Application</a></li>
-                        <li><a href="#">Page 2</a></li>
-                        <li><a href="#">Page 3</a></li>
+                        <li><a href="approval.aspx">Application Approval</a></li>
+                        <li><a href="students.aspx">View Students</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li>

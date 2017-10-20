@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="approval.aspx" />
     <Content Include="newapplication.aspx" />
     <Content Include="packages.config" />
     <Content Include="urp.Master" />
@@ -83,6 +84,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="approval.aspx.cs">
+      <DependentUpon>approval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="approval.aspx.designer.cs">
+      <DependentUpon>approval.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
